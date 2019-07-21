@@ -1,0 +1,640 @@
+DIAG: cwd is 'C:\Nex\Prox\Steam\steamapps\common\thief_2'
+
+DIAG: enumerating patches for 'gamesys' (40200)
+DIAG: looking for file 'gamesys.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'gamesys.dml' in path 'mods\t2snd\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\t2skies\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\t2water\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'EP2\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'gamesys.dml' in path 'NecroAge\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\CarryBody\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'mods\CarryBody\', loading... (40200)
+INFO: patch queued
+DIAG: looking for file 'gamesys.dml' in path 'mods\candles\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'usermods\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'OSM\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'OSM\', loading... (40200)
+INFO: patch queued
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches for 'miss20.GAM' (40200)
+DIAG: looking for file 'miss20.GAM.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss20.GAM.dml' in path 'mods\t2snd\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'mods\t2skies\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'mods\t2water\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'EP2\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'NecroAge\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'mods\CarryBody\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'mods\candles\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'usermods\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss20.GAM.dml' in path 'OSM\' (40200)
+DIAG:     file not found
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches in 'dbmods\*.dml' (40200)
+DIAG: ------ patch enum request finished ------
+
+DIAG: applying patch queue
+DIAG: looking for file 'gamesys.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\CarryBody\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'mods\CarryBody\', loading... (40200)
+DIAG:     added property "invlimbmodel" to object -1320
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhaunt01" on object -1320
+DIAG:     added property "invlimbmodel" to object -2392
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMzom02" on object -2392
+DIAG:     added property "invlimbmodel" to object -2393
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMzom01" on object -2393
+DIAG:     added property "invlimbmodel" to object -1328
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMape01" on object -1328
+DIAG:     added property "invlimbmodel" to object -2468
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMape02" on object -2468
+DIAG:     added property "invlimbmodel" to object -1258
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecSlM01" on object -1258
+DIAG:     added property "invlimbmodel" to object -913
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecSlM01" on object -913
+DIAG:     added property "invlimbmodel" to object -4253
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhamsol02" on object -4253
+DIAG:     added property "invlimbmodel" to object -1434
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhamsol02" on object -1434
+DIAG:     added property "invlimbmodel" to object -912
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecsub01" on object -912
+DIAG:     added property "invlimbmodel" to object -2385
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecsub01" on object -2385
+DIAG:     added property "invlimbmodel" to object -2344
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecsub01" on object -2344
+DIAG:     added property "invlimbmodel" to object -1257
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecWor01" on object -1257
+DIAG:     added property "invlimbmodel" to object -2606
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecPrs01" on object -2606
+DIAG:     added property "invlimbmodel" to object -2289
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecPrW01" on object -2289
+DIAG:     added property "invlimbmodel" to object -2976
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecSlM01" on object -2976
+DIAG:     added property "invlimbmodel" to object -1438
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhamsol02" on object -1438
+DIAG:     added property "invlimbmodel" to object -555
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmalsev01" on object -555
+DIAG:     added property "invlimbmodel" to object -556
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMwomsev03" on object -556
+DIAG:     added property "invlimbmodel" to object -1323
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMwomsev01" on object -1323
+DIAG:     added property "invlimbmodel" to object -1716
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMwomsev02" on object -1716
+DIAG:     added property "invlimbmodel" to object -2248
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmalsev02" on object -2248
+DIAG:     added property "invlimbmodel" to object -6055
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecser01" on object -6055
+DIAG:     added property "invlimbmodel" to object -6056
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecser01" on object -6056
+DIAG:     added property "invlimbmodel" to object -6057
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecser01" on object -6057
+DIAG:     added property "invlimbmodel" to object -2441
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem01" on object -2441
+DIAG:     added property "invlimbmodel" to object -5623
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem02" on object -5623
+DIAG:     added property "invlimbmodel" to object -5624
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem03" on object -5624
+DIAG:     added property "invlimbmodel" to object -5625
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem04" on object -5625
+DIAG:     added property "invlimbmodel" to object -2644
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew01" on object -2644
+DIAG:     added property "invlimbmodel" to object -5330
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew02" on object -5330
+DIAG:     added property "invlimbmodel" to object -5331
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew03" on object -5331
+DIAG:     added property "invlimbmodel" to object -5332
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew04" on object -5332
+DIAG:     added property "invlimbmodel" to object -2259
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganM01" on object -2259
+DIAG:     added property "invlimbmodel" to object -2260
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganM02" on object -2260
+DIAG:     added property "invlimbmodel" to object -2261
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganW01" on object -2261
+DIAG:     added property "invlimbmodel" to object -2263
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganC01" on object -2263
+DIAG:     added property "invlimbmodel" to object -5967
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMCop03" on object -5967
+DIAG:     added property "invlimbmodel" to object -1332
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMCop03" on object -1332
+DIAG:     added property "invlimbmodel" to object -3214
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMsherif2" on object -3214
+DIAG:     added property "invlimbmodel" to object -51
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGard01" on object -51
+DIAG:     added property "invlimbmodel" to object -4978
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGard01" on object -4978
+DIAG:     added property "invlimbmodel" to object -3050
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGD103" on object -3050
+DIAG:     added property "invlimbmodel" to object -6047
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGard02" on object -6047
+DIAG:     added property "invlimbmodel" to object -4979
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMswgard02" on object -4979
+DIAG:     added property "invlimbmodel" to object -1331
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMcops01" on object -1331
+DIAG:     added property "invlimbmodel" to object -2440
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMarcher01" on object -2440
+DIAG:     added property "invlimbmodel" to object -5026
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMarcher01" on object -5026
+DIAG:     added property "invlimbmodel" to object -6078
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMarcher02" on object -6078
+DIAG:     added property "invlimbmodel" to object -2788
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMkeeper01" on object -2788
+DIAG:     added property "invlimbmodel" to object -2297
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMThiefM01" on object -2297
+DIAG:     added property "invlimbmodel" to object -2294
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMThiefM02" on object -2294
+DIAG:     added property "invlimbmodel" to object -2295
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMThiefW01" on object -2295
+INFO: patch done
+DIAG: looking for file 'gamesys.dml' in path 'OSM\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'OSM\', loading... (40200)
+DIAG:     requires script module "script-t2"
+DIAG:     requires script module "nvscript"
+DIAG:     requires script module "squirrel"
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -3291
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -3292
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -3293
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -2840
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -2841
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -5345
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -5346
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -6079
+DIAG:     added property "RenderAlpha" to object -1519
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -1519
+DIAG:     added property "PhysDims" to object -458
+DIAG:     assigned prop value "PhysDims" -> cPhysDimsProp::"Radius 1" = "0.34" on object -458
+DIAG:     added property "AI_NtcBody" to object -3665
+DIAG:     assigned prop value "AI_NtcBody" -> BOOL::"" = "False" on object -3665
+DIAG:     added property "CretHTrack" to object -1806
+DIAG:     assigned prop value "CretHTrack" -> BOOL::"" = "1" on object -1806
+INFO: patch done
+DIAG: looking for file 'miss20.GAM.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: ------ patch queue finished ------
+
+DIAG: processing script dependencies of patches for 'miss_all' (31900)
+DIAG: looking for file 'miss_all.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2skies\' (31900)
+
+INFO: found file 'miss_all.dml' in path 'mods\t2skies\', loading... (31900)
+INFO: patch done
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch request finished ------
+
+DIAG: processing script dependencies of patches for 'miss20.mis' (31900)
+DIAG: looking for file 'miss20.mis.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\t2skies\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss20.mis.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch request finished ------
+
+DIAG: processing script dependencies of patches for 'dbmods\miss_all\*.dml' (31900)
+DIAG: ------ patch request finished ------
+
+DIAG: processing script dependencies of patches for 'dbmods\miss20.mis\*.dml' (31900)
+DIAG: ------ patch request finished ------
+
+DIAG: enumerating patches for 'miss_all' (31900)
+DIAG: looking for file 'miss_all.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2skies\' (31900)
+
+INFO: found file 'miss_all.dml' in path 'mods\t2skies\', loading... (31900)
+INFO: patch queued
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches for 'miss20.mis' (31900)
+DIAG: looking for file 'miss20.mis.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\t2skies\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss20.mis.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss20.mis.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches in 'dbmods\miss_all\*.dml' (31900)
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches in 'dbmods\miss20.mis\*.dml' (31900)
+DIAG: ------ patch enum request finished ------
+
+DIAG: applying patch queue
+DIAG: looking for file 'miss_all.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2skies\' (31900)
+
+INFO: found file 'miss_all.dml' in path 'mods\t2skies\', loading... (31900)
+DIAG:     assigned tag value sMissionStarObj::"Max Sky Intensity" = "1000000.00" in object STAROBJVAR
+INFO: patch done
+DIAG: looking for file 'miss20.mis.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: ------ patch queue finished ------
+
+DIAG: enumerating patches for 'gamesys' (40200)
+DIAG: looking for file 'gamesys.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'gamesys.dml' in path 'mods\t2snd\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\t2skies\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\t2water\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'EP2\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'gamesys.dml' in path 'NecroAge\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\CarryBody\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'mods\CarryBody\', loading... (40200)
+INFO: patch queued
+DIAG: looking for file 'gamesys.dml' in path 'mods\candles\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'usermods\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'OSM\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'OSM\', loading... (40200)
+INFO: patch queued
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches for 'miss21.gam' (40200)
+DIAG: looking for file 'miss21.gam.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss21.gam.dml' in path 'mods\t2snd\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss21.gam.dml' in path 'mods\t2skies\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss21.gam.dml' in path 'mods\t2water\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss21.gam.dml' in path 'EP2\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'miss21.gam.dml' in path 'NecroAge\' (40200)
+DIAG:     path not found
+DIAG: looking for file 'miss21.gam.dml' in path 'mods\CarryBody\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss21.gam.dml' in path 'mods\candles\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss21.gam.dml' in path 'usermods\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'miss21.gam.dml' in path 'OSM\' (40200)
+DIAG:     file not found
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches in 'dbmods\*.dml' (40200)
+DIAG: ------ patch enum request finished ------
+
+DIAG: applying patch queue
+DIAG: looking for file 'gamesys.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: looking for file 'gamesys.dml' in path 'mods\CarryBody\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'mods\CarryBody\', loading... (40200)
+DIAG:     added property "invlimbmodel" to object -1320
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhaunt01" on object -1320
+DIAG:     added property "invlimbmodel" to object -2392
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMzom02" on object -2392
+DIAG:     added property "invlimbmodel" to object -2393
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMzom01" on object -2393
+DIAG:     added property "invlimbmodel" to object -1328
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMape01" on object -1328
+DIAG:     added property "invlimbmodel" to object -2468
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMape02" on object -2468
+DIAG:     added property "invlimbmodel" to object -1258
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecSlM01" on object -1258
+DIAG:     added property "invlimbmodel" to object -913
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecSlM01" on object -913
+DIAG:     added property "invlimbmodel" to object -4253
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhamsol02" on object -4253
+DIAG:     added property "invlimbmodel" to object -1434
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhamsol02" on object -1434
+DIAG:     added property "invlimbmodel" to object -912
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecsub01" on object -912
+DIAG:     added property "invlimbmodel" to object -2385
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecsub01" on object -2385
+DIAG:     added property "invlimbmodel" to object -2344
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecsub01" on object -2344
+DIAG:     added property "invlimbmodel" to object -1257
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecWor01" on object -1257
+DIAG:     added property "invlimbmodel" to object -2606
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecPrs01" on object -2606
+DIAG:     added property "invlimbmodel" to object -2289
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecPrW01" on object -2289
+DIAG:     added property "invlimbmodel" to object -2976
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMMecSlM01" on object -2976
+DIAG:     added property "invlimbmodel" to object -1438
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMhamsol02" on object -1438
+DIAG:     added property "invlimbmodel" to object -555
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmalsev01" on object -555
+DIAG:     added property "invlimbmodel" to object -556
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMwomsev03" on object -556
+DIAG:     added property "invlimbmodel" to object -1323
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMwomsev01" on object -1323
+DIAG:     added property "invlimbmodel" to object -1716
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMwomsev02" on object -1716
+DIAG:     added property "invlimbmodel" to object -2248
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmalsev02" on object -2248
+DIAG:     added property "invlimbmodel" to object -6055
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecser01" on object -6055
+DIAG:     added property "invlimbmodel" to object -6056
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecser01" on object -6056
+DIAG:     added property "invlimbmodel" to object -6057
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMmecser01" on object -6057
+DIAG:     added property "invlimbmodel" to object -2441
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem01" on object -2441
+DIAG:     added property "invlimbmodel" to object -5623
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem02" on object -5623
+DIAG:     added property "invlimbmodel" to object -5624
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem03" on object -5624
+DIAG:     added property "invlimbmodel" to object -5625
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblem04" on object -5625
+DIAG:     added property "invlimbmodel" to object -2644
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew01" on object -2644
+DIAG:     added property "invlimbmodel" to object -5330
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew02" on object -5330
+DIAG:     added property "invlimbmodel" to object -5331
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew03" on object -5331
+DIAG:     added property "invlimbmodel" to object -5332
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMnoblew04" on object -5332
+DIAG:     added property "invlimbmodel" to object -2259
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganM01" on object -2259
+DIAG:     added property "invlimbmodel" to object -2260
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganM02" on object -2260
+DIAG:     added property "invlimbmodel" to object -2261
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganW01" on object -2261
+DIAG:     added property "invlimbmodel" to object -2263
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMPaganC01" on object -2263
+DIAG:     added property "invlimbmodel" to object -5967
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMCop03" on object -5967
+DIAG:     added property "invlimbmodel" to object -1332
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMCop03" on object -1332
+DIAG:     added property "invlimbmodel" to object -3214
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMsherif2" on object -3214
+DIAG:     added property "invlimbmodel" to object -51
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGard01" on object -51
+DIAG:     added property "invlimbmodel" to object -4978
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGard01" on object -4978
+DIAG:     added property "invlimbmodel" to object -3050
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGD103" on object -3050
+DIAG:     added property "invlimbmodel" to object -6047
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMSWGard02" on object -6047
+DIAG:     added property "invlimbmodel" to object -4979
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMswgard02" on object -4979
+DIAG:     added property "invlimbmodel" to object -1331
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMcops01" on object -1331
+DIAG:     added property "invlimbmodel" to object -2440
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMarcher01" on object -2440
+DIAG:     added property "invlimbmodel" to object -5026
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMarcher01" on object -5026
+DIAG:     added property "invlimbmodel" to object -6078
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMarcher02" on object -6078
+DIAG:     added property "invlimbmodel" to object -2788
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMkeeper01" on object -2788
+DIAG:     added property "invlimbmodel" to object -2297
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMThiefM01" on object -2297
+DIAG:     added property "invlimbmodel" to object -2294
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMThiefM02" on object -2294
+DIAG:     added property "invlimbmodel" to object -2295
+DIAG:     assigned prop value "invlimbmodel" -> Label::"" = "LMThiefW01" on object -2295
+INFO: patch done
+DIAG: looking for file 'gamesys.dml' in path 'OSM\' (40200)
+
+INFO: found file 'gamesys.dml' in path 'OSM\', loading... (40200)
+DIAG:     requires script module "script-t2"
+DIAG:     requires script module "nvscript"
+DIAG:     requires script module "squirrel"
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -3291
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -3292
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -3293
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -2840
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -2841
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -5345
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -5346
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -6079
+DIAG:     added property "RenderAlpha" to object -1519
+DIAG:     assigned prop value "RenderAlpha" -> float::"" = "0.9999" on object -1519
+DIAG:     added property "PhysDims" to object -458
+DIAG:     assigned prop value "PhysDims" -> cPhysDimsProp::"Radius 1" = "0.34" on object -458
+DIAG:     added property "AI_NtcBody" to object -3665
+DIAG:     assigned prop value "AI_NtcBody" -> BOOL::"" = "False" on object -3665
+DIAG:     added property "CretHTrack" to object -1806
+DIAG:     assigned prop value "CretHTrack" -> BOOL::"" = "1" on object -1806
+INFO: patch done
+DIAG: looking for file 'miss21.gam.dml' in path 'FMs\Calendras_Legacy_v1a\' (40200)
+DIAG:     file not found
+DIAG: ------ patch queue finished ------
+
+DIAG: processing script dependencies of patches for 'miss_all' (31900)
+DIAG: looking for file 'miss_all.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2skies\' (31900)
+
+INFO: found file 'miss_all.dml' in path 'mods\t2skies\', loading... (31900)
+INFO: patch done
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch request finished ------
+
+DIAG: processing script dependencies of patches for 'miss21.mis' (31900)
+DIAG: looking for file 'miss21.mis.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\t2skies\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss21.mis.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch request finished ------
+
+DIAG: processing script dependencies of patches for 'dbmods\miss_all\*.dml' (31900)
+DIAG: ------ patch request finished ------
+
+DIAG: processing script dependencies of patches for 'dbmods\miss21.mis\*.dml' (31900)
+DIAG: ------ patch request finished ------
+
+DIAG: enumerating patches for 'miss_all' (31900)
+DIAG: looking for file 'miss_all.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2skies\' (31900)
+
+INFO: found file 'miss_all.dml' in path 'mods\t2skies\', loading... (31900)
+INFO: patch queued
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches for 'miss21.mis' (31900)
+DIAG: looking for file 'miss21.mis.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: searching FM/mod paths for patches...
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\t2snd\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\t2skies\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\t2water\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'EP2\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss21.mis.dml' in path 'NecroAge\' (31900)
+DIAG:     path not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\CarryBody\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'mods\candles\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'usermods\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss21.mis.dml' in path 'OSM\' (31900)
+DIAG:     file not found
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches in 'dbmods\miss_all\*.dml' (31900)
+DIAG: ------ patch enum request finished ------
+
+DIAG: enumerating patches in 'dbmods\miss21.mis\*.dml' (31900)
+DIAG: ------ patch enum request finished ------
+
+DIAG: applying patch queue
+DIAG: looking for file 'miss_all.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: looking for file 'miss_all.dml' in path 'mods\t2skies\' (31900)
+
+INFO: found file 'miss_all.dml' in path 'mods\t2skies\', loading... (31900)
+DIAG:     assigned tag value sMissionStarObj::"Max Sky Intensity" = "1000000.00" in object STAROBJVAR
+INFO: patch done
+DIAG: looking for file 'miss21.mis.dml' in path 'FMs\Calendras_Legacy_v1a\' (31900)
+DIAG:     file not found
+DIAG: ------ patch queue finished ------
+
